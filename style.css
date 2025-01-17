@@ -430,3 +430,18 @@ footer {
 footer p {
   text-align: center;
 }
+
+/* coding */
+.coding-platforms {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 2rem;
+  margin-top: 4rem;
+}
+
+.icon1 {
+  height: 5rem;
+  width: 5rem;
+}
